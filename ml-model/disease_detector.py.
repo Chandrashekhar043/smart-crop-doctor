@@ -1,0 +1,9 @@
+# Minimal demo script for Smart Crop Doctor
+
+def detect_disease(image_path: str) -> str:
+    """Dummy detector for demo purposes."""
+    # In full version: load ML model and predict.
+    return "Leaf appears healthy (demo). Consult expert for confirmation."
+
+if __name__ == "__main__":
+    print(detect_disease("sample_leaf.jpg"))
