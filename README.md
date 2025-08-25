@@ -28,4 +28,11 @@ Indian farmers face major losses due to undiagnosed crop diseases. Limited acces
 ## 🔄 Architecture Diagram
 *(Architecture: Farmer uploads leaf → Azure ML → Backend → Cosmos DB → Output → Farmer in regional language)*
 
-## 📂 Repository Structure
+## 👨‍👩‍👧‍👦 Team Members
+- [Chandrashekhar H S]
+- [Jishu Kumar] 
+- [Sanjay C A]
+- [J vignesh]
+
+## 📄 License
+This project is developed as part of **AINNOVATION_II — 2025: Code 4 Bharat Hackathon**.
